@@ -169,7 +169,8 @@ dependencies {
   // api 'io.agora.rtc:agora-special-full:4.5.2.140'
   // api 'io.agora.rtc:iris-rtc:4.5.2.140-build.4'
   /// dependencies end
-  implementation 'io.agora.rtc:audio-sdk:4.5.0.1'
+  implementation 'io.agora.rtc:full-sdk:4.1.1.1'
+
 
 }
 
